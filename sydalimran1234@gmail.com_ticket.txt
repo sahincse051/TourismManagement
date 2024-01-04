@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: sydalimran1234@gmail.com
+Tour Code: BHB
+Ticket Cost: Rs 10000.000000
+Number of tickets: 4
+Total Cost: Rs 40000.000000
